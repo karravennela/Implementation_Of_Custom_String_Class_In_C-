@@ -1,6 +1,6 @@
 # Implementation_Of_Custom_STRING_Class_In_CPP
 # Overview
-This project "Implementation Of Custom STRING Class" is implemented to create our custom string class which will have the same functionality as the existing string class.
+This project "Implementation Of Custom STRING Class" is implemented to create our custom STRING class which will have the same functionality as the existing string class.
 - The STRING class has the following basic functionalities: 
   + Constructor with no arguments
   + Parameterised Constructor with only one argument
